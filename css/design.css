@@ -7,7 +7,7 @@ body{
     display: block;
     text-align: center;
 }
-.h1{
-    font-size: 5rem;
+h1{
+    font-size: 6rem;
     font-family: 'Roboto Mono', monospace;
 }
