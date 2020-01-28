@@ -4,6 +4,7 @@ body{
 }
 #logo{
     margin: 10rem auto;
+    display: block;
 }
 h1{
     font-size: 4rem;
