@@ -1,5 +1,4 @@
-body{
-    font-family: 'Roboto Mono', monospace;
+.body{
     font-family: 'Roboto', sans-serif;
 }
 #logo{
@@ -7,7 +6,7 @@ body{
     display: block;
     width: 300px;
 }
-h1{
+.h1{
     font-size: 4rem;
     font-family: 'Roboto Mono', monospace;
 }
