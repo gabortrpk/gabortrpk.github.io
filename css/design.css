@@ -3,9 +3,11 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 #logo{
-    margin: 10rem auto;
+    margin: 0 auto;
     display: block;
+    width: 300px;
 }
 h1{
     font-size: 4rem;
+    font-family: 'Roboto Mono', monospace;
 }
