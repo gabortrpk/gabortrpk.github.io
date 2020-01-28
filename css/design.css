@@ -2,3 +2,9 @@ body{
     font-family: 'Roboto Mono', monospace;
     font-family: 'Roboto', sans-serif;
 }
+#logo{
+    margin: 10rem auto;
+}
+h1{
+    font-size: 4rem;
+}
